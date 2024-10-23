@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": "1544",
+      "name": "Hamza",
+      "role": "Admin",
+      "email": "hamza@gmail.com",
+      "phone": "03459237165"
+    },
+    {
+      "id": "3e05",
+      "name": "Azan",
+      "role": "Staff",
+      "email": "azan631@gmail.com",
+      "phone": "03326315050"
+    },
+    {
+      "id": "eef9",
+      "name": "M Shahid",
+      "role": "Admin",
+      "email": "shahid22@gmail.com",
+      "phone": "03234354126"
+    },
+    {
+      "id": "839e",
+      "name": "Alia ",
+      "role": "Staff",
+      "email": "alia88@gmail.com",
+      "phone": "03346543212"
+    }
+  ]
+}
